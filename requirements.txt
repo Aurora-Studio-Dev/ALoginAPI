@@ -1,0 +1,4 @@
+Flask==2.3.3
+redis==4.6.0
+flask_cors
+pyyaml
